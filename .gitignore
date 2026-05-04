@@ -1,0 +1,25 @@
+# Auto-generated deepseek-reverse-api (cloned by install scripts)
+deepseek-reverse-api/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment files (sensitive)
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
